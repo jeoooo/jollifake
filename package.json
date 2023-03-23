@@ -1,0 +1,21 @@
+{
+  "name": "jollifake",
+  "displayName": "Jollifake",
+  "description": "A Jollibee-based VSCode Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jollifake",
+        "uiTheme": "vs",
+        "path": "./themes/Jollifake-color-theme.json"
+      }
+    ]
+  }
+}
