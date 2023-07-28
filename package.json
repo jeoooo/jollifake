@@ -3,7 +3,8 @@
   "publisher": "jeooo",
   "displayName": "Jollifake",
   "description": "A Jollibee-based VSCode Color Theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "icon": "images/jollifake-icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -18,5 +19,13 @@
         "path": "./themes/Jollifake-color-theme.json"
       }
     ]
+  },
+  "iconThemes": {
+    "light": "images/jollifake-icon.png",
+    "dark": "images/jollifake-icon.png"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeoooo/jollifake.git"
   }
 }
